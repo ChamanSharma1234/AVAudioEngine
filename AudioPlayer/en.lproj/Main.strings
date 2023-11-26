@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Pitch:"; ObjectID = "BRf-bA-Zzp"; */
+"BRf-bA-Zzp.text" = "Pitch:";
+
+/* Class = "UILabel"; text = "-15"; ObjectID = "FbY-3t-6aL"; */
+"FbY-3t-6aL.text" = "-15";
+
+/* Class = "UILabel"; text = "Tempo"; ObjectID = "GhI-eu-Jpl"; */
+"GhI-eu-Jpl.text" = "Tempo";
+
+/* Class = "UILabel"; text = "Adjust Volume:"; ObjectID = "woM-UJ-raH"; */
+"woM-UJ-raH.text" = "Adjust Volume:";

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-AudioPlayer/Pods-AudioPlayer-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
